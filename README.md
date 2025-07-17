@@ -1,6 +1,6 @@
 # Khayr Aggregator ✨📅
-*Using the definition of aggregator here to be a website or program that collects related items of content and displays them or links to them*
-This is a community-focused project to support @spark.khayr — an initiative aimed at empowering local Muslims in their knowledge-seeking pursuits and hijrah journey through the sharing of information and volunteer opportunities to foster a strong sense of community.
+*Using the definition of aggregator here to be a website or program that collects related items of content and displays them or links to them*,
+this is a community-focused project to support @spark.khayr — an initiative aimed at empowering local Muslims in their knowledge-seeking pursuits and hijrah journey through the sharing of information and volunteer opportunities to foster a strong sense of community.
 
 ## 📌 Project Goal
 To automate the collection, categorization, and organization of Islamic events, workshops, classes, and volunteer drives across Singapore, enabling easier dissemination through Instagram and public calendars. This aims to reduce manual workload and improve accessibility for seekers of knowledge.
